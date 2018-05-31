@@ -1,0 +1,12 @@
+{
+  "name": "bot-intent-builder",
+  "version": "1.0.0",
+  "description": "Converts QnA Maker TSV files to Dialogflow Intents",
+  "main": "index.js",
+  "author": "Greg Brown",
+  "license": "MIT",
+  "devDependencies": {
+    "node-tsv-json": "^0.2.1",
+    "rimraf": "^2.6.2"
+  }
+}
